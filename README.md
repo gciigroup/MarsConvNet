@@ -1,6 +1,6 @@
 # MarsConvNet: Marsquakes detection of InSight seismic data using deep learning
 
-![1690536578592](image/README/1690536578592.png)
+![readme1](image/README/readme1.png)
 
 ## STanford EArthquake Dataset (STEAD):
 
