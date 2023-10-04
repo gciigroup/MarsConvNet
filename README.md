@@ -25,4 +25,4 @@ Use `cd ./datas` and run `python data_maker.py` to obtain the training set, test
 
 ## Reference:
 
-* Marsquakes detection of InSight seismic data using deep learning, 2023.
+* MarsConvNet: Marsquakes detection of InSight seismic data using deep learning, 2023.
